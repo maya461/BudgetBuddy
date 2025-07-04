@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^14.0.0",
+    "csv-writer": "^1.6.0",
+    "inquirer": "^12.7.0"
+  }
+}

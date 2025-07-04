@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": 1751590454996,
+      "type": "income",
+      "amount": 1000,
+      "category": "salary",
+      "description": "July paycheck",
+      "date": "2025-07-04"
+    },
+    {
+      "id": 1751590461434,
+      "type": "expense",
+      "amount": 200,
+      "category": "groceries",
+      "description": "Weekly shopping",
+      "date": "2025-07-04"
+    }
+  ],
+  "goals": {
+    "food": 100,
+    "groceries": 500
+  }
+}
