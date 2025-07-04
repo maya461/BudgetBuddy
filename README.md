@@ -39,5 +39,8 @@ node budget.js (add) (income/expense) (money) (category (food/travel etc...)) (d
 
 
 ## Screenshot
+1)
 ![Screenshot](img1.png)
+
+2)
 ![Screenshot](img2.png)
